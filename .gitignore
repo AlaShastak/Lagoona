@@ -1,0 +1,8 @@
+ehthumbs.db
+Thumbs.db
+.DS_Store
+<<<<<<< HEAD:07_layout-html/.gitignore
+.idea
+=======
+ide
+>>>>>>> origin/dev2:07_layout-flexbox/.gitignore
